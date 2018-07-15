@@ -22,12 +22,13 @@ dependencies {
     implementation 'android.arch.navigation:navigation-fragment:1.0.0-alpha02'     // cette est obligatoire
 }
 ```
+
+
 Une fois toutes les librairie en place, vous pouvez maintenant vous mettre au travail en creant le sous dossier navigation dans le dossier res de votre projet, une fois que ce fait crée un fichier xml (navigation.xml dans ce cas) qui contiendra le graph de votre application 
 
+
 ![Resultat final](https://github.com/eric-ampire/Android-Jetpack-Test/blob/master/Deepin%20Capture-%C3%A9cran_sun-awt-X11-XFramePeer_20180715175927.png)
 
-
-# Navigation Preview
-![Resultat final](https://github.com/eric-ampire/Android-Jetpack-Test/blob/master/Deepin%20Capture-%C3%A9cran_sun-awt-X11-XFramePeer_20180715175927.png)
+Pour plus d'information [Android Jetpack](https://developer.android.com/jetpack/) !
 
 
